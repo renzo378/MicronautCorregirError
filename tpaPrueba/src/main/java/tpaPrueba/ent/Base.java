@@ -19,7 +19,7 @@ import java.io.Serializable;
 @AllArgsConstructor
 @Setter
 @Getter
-public class Base implements Serializable {
+public class Base  {
 
     private static final long serialVersionUID = 1L;
 
